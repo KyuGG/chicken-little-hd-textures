@@ -28,7 +28,7 @@
 
 ## How to Install (PCSX2 Emulator)
 
-1. Download and extract the `main.zip` archive.
+1. Download and extract the `chicken-little-hd-textures-main.zip` archive.
 2. Move the `replacements` folder into your emulator's directory using the following path structure:
    `PCSX2\textures\SLUS-21088\replacements\`
 3. Enable texture loading inside **PCSX2**:
