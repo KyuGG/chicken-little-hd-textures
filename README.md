@@ -1,13 +1,14 @@
 # Disney's Chicken Little PS2 HD Texture Pack
 
-<h2><a href="https://github.com/KyuGG/chicken-little-hd-textures/archive/refs/heads/main.zip" target="_blank">
+<h2>
+<a href="https://github.com/KyuGG/chicken-little-hd-textures/archive/refs/heads/main.zip" target="_blank">
   Download
 </a>
 </h2>
 
 ### Project Info
 * **Compatibility:** Tested and working on **SLUS-21088** (NTSC-U)
-* **Progress:** The entire game is covered, except for the minigames
+* **Progress:** Covered 100% of the game
 * **Upscale Method:** AI upscaled using the **4xLSDIRplusC** model
 
 ---
@@ -28,12 +29,12 @@
 
 ## How to Install (PCSX2 Emulator)
 
-1. Download and extract the `chicken-little-hd-textures-main.zip` archive.
+1. Download and extract the `chicken-little-hd-textures-main.zip` archive
 2. Move the `replacements` folder into your emulator's directory using the following path structure:
    `PCSX2\textures\SLUS-21088\replacements\`
 3. Enable texture loading inside **PCSX2**:
-   * Open the emulator and go to **Settings** ➔ **Graphics** ➔ Select the **Texture Replacement** tab.
-   * Make sure **Load Textures** checkbox is marked.
+   * Open the emulator and go to **Settings** ➔ **Graphics** ➔ **Texture Replacement**
+   * Make sure **Load Textures** checkbox is marked
 4. Enable anisotropic filtering for this game
    * Open game properties and go to **Graphics** ➔ **Rendering**
    * Set Anisotropic Filtering to 4x or higher
