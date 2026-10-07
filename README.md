@@ -9,13 +9,13 @@
 ### Project Info
 * **Compatibility:** Tested and working on **SLUS-21088** (NTSC-U)
 * **Progress:** Covered 100% of the game
-* **Upscale Method:** AI upscaled using the **4xLSDIRplusC** model
+* **Upscale Method:** AI upscaled using the <a href="https://github.com/Venomalia/HDcube/tree/main/v4Compact">HDcube4Compact</a> model
 
 ---
 
 ## Demo (4x Native (~1440px/QHD) internal resolution)
 
-[Watch demo on YT](https://youtu.be/hfhLQ4kywkw)
+[Watch demo on YT](https://youtu.be/pYR90kCNBVQ)
 
 ### Comparison Screenshots
 
